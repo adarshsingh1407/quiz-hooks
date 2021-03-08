@@ -1,0 +1,14 @@
+export const QUIZ_LIST = "Quiz List";
+export const FETCH_QUIZ_DETAILS = "Fetching quiz details...";
+export const FETCHING_QUIZ_RESULT = "Fetching quiz result...";
+export const DEFAULT_LOADING_MSG = "Loading...please wait";
+export const YOUR_SCORE = "Your score is";
+export const ANSWERS = "Answers";
+export const QUESTION = "Question";
+export const YOUR_ANSWER = "Your Answer";
+export const CORRECT_ANSWER = "Correct Answer";
+export const TIME_REMAINING = "Time Remaining";
+export const SECONDS = "seconds";
+export const WELCOME_MSG = "Welcome to CodeJudge";
+export const FETCHING_QUIZZES_MSG = "Fetching quizzes...";
+export const START = "Start";
